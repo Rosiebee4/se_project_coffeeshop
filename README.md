@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Improve responsiveness by testing on more devices and refining media queries to ensure no layout issues on very wide or very small screens.

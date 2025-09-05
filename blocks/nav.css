@@ -20,12 +20,12 @@
 .nav__link {
   text-decoration: none;
   color: black;
-  transition: color 0.5s;
+  transition: opacity 0.3s ease;
   cursor: pointer;
 }
 
 .nav__link:hover {
-  color: #808080 !important;
+  opacity: 0.5;
 }
 
 
