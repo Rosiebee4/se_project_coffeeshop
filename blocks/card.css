@@ -11,11 +11,15 @@
 
 .card__title {
   margin: 0 0 32px;
+  font-size: 44px;
+  line-height: 52px;
+  font-weight: 500;
 }
 
 .card__list-item {
   display: flex;
   gap: 10px;
+  font-family: "Inter", Arial, sans-serif;
 }
 .card__list-divider {
   flex-grow: 1;

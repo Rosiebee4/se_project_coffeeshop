@@ -6,6 +6,7 @@
   height: 800px;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
 }
 
 .header__title {
@@ -13,7 +14,7 @@
   max-width: 729px;
   font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
-  font-size: 70px;
+  font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
   position: relative;
@@ -24,6 +25,7 @@
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
+  font-weight: 400;
   color: #3f96f3;
 }
 
@@ -50,10 +52,6 @@
     opacity: 0.5;
   }
 } */
-
-.header__image-item {
-  width: 100%;
-}
 
 .header__footer {
   margin-top: auto;
